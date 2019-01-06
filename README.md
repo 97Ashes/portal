@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kurulum
 ============
 
@@ -119,3 +120,6 @@ Hariçi bir programla (putty vb.) ssh bağlantısı için bilgiler;
 * ip : 192.168.83.137
 * user : vagrant
 * password : vagrant
+=======
+# portal-Slider
+>>>>>>> fa8215ab8b749af8638ddb52e3dc7a21b9491c95

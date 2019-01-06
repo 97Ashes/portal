@@ -19,12 +19,15 @@ return [
         'menu' => [
             'class' => 'kouosl\menu\Module',
         ],
-        'user' => [
+       /* 'user' => [
             'class' => 'kouosl\user\Module'   // here is our v1 modules
-        ],
+        ],*/
         'sample' => [
             'class' => 'kouosl\sample\Module'   // here is our v1 modules
         ],
+        'Slider' => [
+            'class' => 'kouosl\Slider\Module',
+        ]
     ],
     'components' => [
         'request' => [
